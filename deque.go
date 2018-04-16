@@ -177,13 +177,3 @@ func (q *Deque) Remove(item interface{}) error {
 
 	return nil
 }
-
-// Reverse the Queue
-func (q *Deque) Reverse() {
-
-}
-
-// Rotate the Queue
-func (q *Deque) Rotate() {
-
-}
